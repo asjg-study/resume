@@ -1,100 +1,113 @@
-Johnny Coder
+Alexander Seong-Jun Geiger
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Writing code is a social endeavor. Good code is an act of kindness.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Taxy.io GmbH**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+DevOps Engineer: Azure, Terraform, kubernetes, python, CI/CD, docker
 
-* First item
+3 years, 1 year 3 months full time, student worker in the remaining time.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+First DevOps Engineer at early stage to series A startup. Built multiple products, one of which served tens of thousands concurrent customers at peak time. For the second half of my time with the company I lead a 3-4 people team and facilitated planning and coordination with other teams. I started in 2020 and am still associated in a consultive arrangement.
 
-**That Other Job You Had**
+**Ericsson AB**
 
-Also with a short description.
+Student Helper Cloud and AI: kubernetes, tensorflow, python, openstack
+
+4 years
+
+Contributed to various innovation projects around cloud technology and machine learning. Completed my bachelor's thesis on performance measurements in kubernetes.
+
+**RWTH Aachen and Fraunhofer Society**
+
+Student Researcher: kubernetes, python, HTML/CSS/JS
+
+2 years, ongoing
+
+Supporting research on cyber security on smart grids using a co-simulation leveraging kubernetes at the group for digital energy that is shared between IAEW at RWTH Aachen and Fraunhofer FIT. Since 2023. My first employment was also at an RWTH institute (IMA), doing simple web programming in 2016.
+
+Education
+---------
+
+2018-2024 (expected)
+:   **MSc, Computer Science**; RWTH Aachen
+
+    *Thesis title: Investigation of the Suitability of Semantic Web Technologies for Cyber Risk Management for the Smart Grid*
+
+2015-2018
+:   **BSc, Computer Science**; RWTH Aachen
+
+    *Focus: Technical Computer Science*
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**++++- Python**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+My swiss army knife. Used mostly as system orchestrator for calling web APIs or
+data science/machine learning frameworks.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**++++- Linux**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+In contact professionally since 2017, my personal main operating system since 2018.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+**++++- DevOps tooling**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Includes CI/CD on github, gitlab and bitbucket, containerization as well as organizational practices around the 'DevOps cycle'.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+**+++-- Terraform**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Most familiar with the azure resource provider.
 
-Extra Section, Call it Whatever You Want
+**+++-- Cloud Providers**
+
+Most experience with Azure, also worked with AWS and smaller local providers.
+
+**+++-- Ansible**
+
+Used for the infrastructure of my student's association in which I take a leading role for the past 5 years.
+
+**+++-- Cyber Security**
+
+Practiced as administrator of multiple systems that interface with the internet. Subject of my master's thesis.
+
+**+++-- Data Science and Machine Learning**
+
+Main focus of lectures, seminar and lab in my masters. Practiced NLP at Ericsson and supported data scientists at Taxy.io for our AI driven products.
+
+**++--- C/C++**
+
+Was taught as part of my bachelor's.
+
+**++--- Semantic Web Technologies (RDF(S)/SPARQL/SHACL/SWRL/OWL/FLORA-2)**
+
+Subject of my master's thesis.
+
+**+---- Rust**
+
+Preferred low-level language, not many opportunities to practice yet.
+
+
+Volunteering
 ----------------------------------------
 
-* Human Languages:
+**EESTEC**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+The Electrical Engineering Student's European Association is a network of electrical engineering and computer science societies spread over Europe. We have more than 3000 members collectively and organize events to facilitate the spread of ideas and the development of bonds between engineers across Europe. I was part of the highest executive body, the Board of EESTEC. I traveled extensively across Europe, which enables me to work very well in international settings. I was praised for an honest and human-centered leadership style.
 
-* Random tidbit
+**Collective Incubator**
 
-* Other sort of impressive-sounding thing you did
+In contribute to Aachen's startup culture by contributing to this student-run startup incubator, supported by RWTH Aachen and Land NRW. I help developing the IT infrastructure, supporting the community of Aachen student associations and organizing the Talent Festival, an event that functions as a platform for the exchange between students and businesses.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <alexander.geiger@rwth-aachen.de> • +49 176 45641448 • 27 years old\
+> Metzgerstraße 41 - 52070 Aachen, Germany
